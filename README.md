@@ -9,11 +9,11 @@ Experiências.
 ![Swift](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
-[![Anurag's Git Hub stats](https://github-readme-stats.vercel.app/api?username=sarahhdias&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's Git Hub stats](https://github-readme-stats.vercel.app/api?username=sarahhdias&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projetos
 
-[![Readme Card(https://github-readme-stats.vercel.app/api/pin/?username=sarahhdias&repo=devweekgit.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahhdias&repo=devweekgit.github.io&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contatos
 
