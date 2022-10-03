@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**sarahhdias/sarahhdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bio
 
-Here are some ideas to get you started:
+Experiências.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Swift](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Swift](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Swift](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+
+[![Anurag's Git Hub stats](https://github-readme-stats.vercel.app/api?username=sarahhdias&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+# Projetos
+
+[![Readme Card(https://github-readme-stats.vercel.app/api/pin/?username=sarahhdias&repo=devweekgit.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+# Contatos
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30">](https://www.linkedin.com/in/sarah-dias-a6a760140/)
