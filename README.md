@@ -14,7 +14,7 @@ Estudando Game Design 🎮 4º Período.
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahhdias&repo=devweekgit.github.io&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahhdias&repo=sarahhdias.github.io&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contatos
 
